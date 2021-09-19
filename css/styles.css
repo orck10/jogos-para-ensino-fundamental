@@ -44,6 +44,16 @@ body, p {
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
+.img-square-custon-type {
+	height: 100%;
+	width: 100%;
+}
+
+.center-custom{
+	align-content: center;
+	justify-content: center;
+}
+
 h1 {
 	color: #223150;
 	font-weight: 700;
@@ -153,6 +163,10 @@ a:hover {
 
 .blue {
 	color: #0092ff;
+}
+
+.orange{
+	color: #ff8126;
 }
 
 .bg-gray {
