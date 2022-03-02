@@ -33,6 +33,33 @@ Colors:
 /**************************/
 /*     General Styles     */
 /**************************/
+
+.table_table {
+	border-collapse: separate;
+  	width: 80%;
+  	border: 1px transparent;
+}
+
+.tr_line {
+	background-color: rgba(0, 0, 0, 0.05);
+  	color: inherit;
+}
+
+.tr_line_1 {
+	background-color: rgba(255, 255, 255, 0.05);
+  	color: inherit;
+}
+
+.th_col {
+	font-weight: normal;
+	text-align: justify;
+	border-width: 5px;
+}
+
+.white_font {
+	color: white;
+}
+
 body,
 html {
     width: 100%;
